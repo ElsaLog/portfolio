@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://elsalog.github.io/portfolio/categories/</loc>
     <lastmod>2022-05-23T10:37:29+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://elsalog.github.io/portfolio/</loc>
     <lastmod>2022-05-23T10:37:29+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet14/</loc>
+    <loc>https://elsalog.github.io/portfolio/projets/projet14/</loc>
     <lastmod>2022-05-16T10:35:11+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://elsalog.github.io/portfolio/projets/</loc>
     <lastmod>2022-05-16T10:35:11+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet2/</loc>
+    <loc>https://elsalog.github.io/portfolio/projets/projet2/</loc>
     <lastmod>2022-05-16T10:35:01+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/d%C3%A9veloppement-web/</loc>
+    <loc>https://elsalog.github.io/portfolio/categories/d%C3%A9veloppement-web/</loc>
     <lastmod>2022-05-09T10:33:58+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/projet/</loc>
+    <loc>https://elsalog.github.io/portfolio/categories/projet/</loc>
     <lastmod>2022-05-09T10:33:58+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet1/</loc>
+    <loc>https://elsalog.github.io/portfolio/projets/projet1/</loc>
     <lastmod>2022-05-09T10:33:58+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://elsalog.github.io/portfolio/blog/</loc>
     <lastmod>2022-04-25T11:16:21+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-premier-article/</loc>
+    <loc>https://elsalog.github.io/portfolio/blog/mon-premier-article/</loc>
     <lastmod>2022-04-25T11:16:21+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://elsalog.github.io/portfolio/tags/</loc>
   </url>
 </urlset>
